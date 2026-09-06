@@ -1,0 +1,17 @@
+{
+  "incident": {
+    "type": "phishing",
+    "severity": "HIGH",
+    "user": "training_user"
+  },
+  "actions": [
+    "Lock affected user account",
+    "Revoke active sessions",
+    "Notify SOC team",
+    "Preserve relevant security logs",
+    "Quarantine suspicious email",
+    "Block malicious indicators",
+    "Review related messages"
+  ],
+  "timestamp": "2026-09-06 13:31:17.661158"
+}
